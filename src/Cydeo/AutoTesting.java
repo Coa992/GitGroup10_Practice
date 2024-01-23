@@ -10,6 +10,8 @@ public class AutoTesting {
 
        // real practice starts now
 
+        // scrum meeting practice
+
 
 
     }
