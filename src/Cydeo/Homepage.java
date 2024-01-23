@@ -9,5 +9,7 @@ public class Homepage {
         //checking all the functions
 
         //enabling Git functions
+
+        //making repository remote and public
     }
 }
