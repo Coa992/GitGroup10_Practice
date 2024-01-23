@@ -8,6 +8,8 @@ public class MarketReady {
 
        //praciticing soft skills
 
+        //practicing technical part
+
 
     }
 }
