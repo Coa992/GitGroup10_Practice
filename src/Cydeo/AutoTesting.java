@@ -10,6 +10,8 @@ public class AutoTesting {
 
        // real practice starts now
 
+        //Congratulations for the new journey to the whole group
+
 
 
     }
