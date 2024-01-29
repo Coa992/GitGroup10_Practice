@@ -10,7 +10,11 @@ public class AutoTesting {
 
        // real practice starts now
 
+//JahanM
         //Congratulations for the new journey to the whole group
+=======
+        // scrum meeting practice
+// Class10
 
 
 
