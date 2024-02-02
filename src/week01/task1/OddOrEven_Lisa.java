@@ -5,10 +5,10 @@ public class OddOrEven_Lisa {
         boolean result = oddOrEven(9);
         System.out.println(result);
     }
-    public static boolean oddOrEven(int n){
-        if(n%2==0){
+
+    public static boolean oddOrEven(int n) {
+        if (n % 2 == 0) {//Divided without remainder
             return true;
-        }
-        else return false;
+        } else return false;
     }
 }
