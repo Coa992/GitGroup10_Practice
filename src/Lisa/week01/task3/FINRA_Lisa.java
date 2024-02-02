@@ -1,4 +1,4 @@
-package week01.task3;
+package Lisa.week01.task3;
 
 public class FINRA_Lisa {
     public static void main(String[] args) {
