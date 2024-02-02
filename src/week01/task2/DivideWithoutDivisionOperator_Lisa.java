@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class DivideWithoutDivisionOperator_Lisa {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int a = scanner.nextInt();
-        int b = scanner.nextInt();
-        System.out.println(divideWithoutDivision(a, b));
+        int a = scanner.nextInt(); //Dividend
+        int b = scanner.nextInt(); //Divisor
+        System.out.println(divideWithoutDivision(a, b));//result
     }
 
     public static int divideWithoutDivision(int a, int b) {
