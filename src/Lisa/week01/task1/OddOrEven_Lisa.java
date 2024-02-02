@@ -1,4 +1,4 @@
-package week01.task1;
+package Lisa.week01.task1;
 
 public class OddOrEven_Lisa {
     public static void main(String[] args) {
