@@ -24,7 +24,7 @@ public class Task3_ConsecutiveNumbers_Eve {
 
         }
     }
-
+//dfghjklş
     public static void main(String[] args) {
         printConsecutiveNumber(20);
     }
