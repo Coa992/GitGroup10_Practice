@@ -5,47 +5,34 @@ public class DivisibleBy3_5_10 {
 
 
 
-        /*
+
+
+        System.out.print("Divisible by 15: ");
         for (int i = 1; i <= 100; i++) {
             if (i % 15 == 0) {
                 System.out.print(i + " ");
-            } else if (i % 5 == 0 && i %15 !=0) {
-                System.out.print(i + " ");
-            } else if (i % 3 == 0 && i %15 !=0) {
-                System.out.print(i + " ");
-            }
-        }
-
-         */
-
-        String divBy15 ="",
-                divBy5 = "",
-                divBy3 = "";
-
-
-        for (int i = 1; i <= 100; i++) {
-            if (i % 15 == 0) {
-                divBy15 = i + "";
 
             }
         }
 
+        System.out.println();
 
+        System.out.print("Divisible by 5: ");
         for (int i = 1; i <= 100; i++) {
             if (i % 5 == 0 && i %15 !=0) {
-                divBy5 = i + "";
+                System.out.print(i + " ");
             }
         }
 
+        System.out.println();
+
+        System.out.print("Divisible by 3: ");
         for (int i = 1; i <= 100; i++) {
             if (i % 3 == 0 && i %15 !=0) {
-                divBy3 = i + "";
+                System.out.print(i + " ");
             }
         }
 
-        System.out.println("divBy15 = " + divBy15);
-        System.out.println("divBy5 = " + divBy5);
-        System.out.println("divBy3 = " + divBy3);
 
 
 
