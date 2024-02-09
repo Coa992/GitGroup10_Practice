@@ -1,6 +1,6 @@
 package eve.week2;
 
-public class Task3_ConsecutiveNumbers {
+public class Task3_ConsecutiveNumbers_Eve {
     public static void printConsecutiveNumber(int N){
 
         for (int i = 1; i <= N ; i++) {    //iterate from 1 to num

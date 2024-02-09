@@ -1,6 +1,6 @@
 package eve.week2;
 
-public class Task2_DivisibleBy3_5_15 {
+public class Task2_DivisibleBy3_5_15_Eve {
     //Write a program that can print the numbers between 1 ~ 100 that can be divisible by 3,5 and 15.
 
     public static void main(String[] args) {
