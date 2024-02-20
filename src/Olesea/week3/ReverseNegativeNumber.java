@@ -11,7 +11,7 @@ public class ReverseNegativeNumber {
             String str = String.valueOf(num);
             String reverse = "";
             for (int i = str.length()-1; i >=1 ; i--) {
-                reverse+=str.charAt(i)+"";
+                reverse += str.charAt(i)+"";
             }
             num = Integer.parseInt(reverse)*-1;
             System.out.println(num);

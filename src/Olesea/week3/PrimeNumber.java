@@ -16,7 +16,7 @@ public class PrimeNumber {
     public static int isPrimer(int num){
         boolean prime = false;
         for (int i = 2; i < num ; i++) {
-            if (num % i == 0 && num!=i) {
+            if (num % i == 0) {
                 prime = true;
                 break;
             }else{
