@@ -1,0 +1,1 @@
+package kiymet.week2;public class task1_kiymet {}
