@@ -4,6 +4,7 @@ public class PrimeNumber {
     public static void main(String[] args) {
         System.out.println(isPrime(13));
         System.out.println(isPrime(17));
+        System.out.println(isPrime(10));
     }
 
 
