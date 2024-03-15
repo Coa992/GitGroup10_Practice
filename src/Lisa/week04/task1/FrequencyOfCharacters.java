@@ -5,7 +5,7 @@ import java.util.*;
 public class FrequencyOfCharacters {
     public static void main(String[] args) {
         System.out.println("frequencyOfCharacters(\"AAABBCDDAA\") = " + frequencyOfCharacters(
-                "AAZABBCDDAAZZDD"));
+                "AABBDDAAZZDD"));
     }
 
     public static String frequencyOfCharacters(String str) {
