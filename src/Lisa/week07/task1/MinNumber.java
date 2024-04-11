@@ -1,6 +1,5 @@
-package Lisa.week7.task1;
+package Lisa.week07.task1;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class MinNumber {
