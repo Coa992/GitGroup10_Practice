@@ -16,3 +16,4 @@ public class Task1_FindMinInArray_Eve {
         System.out.println("Minimum number: " + minValue);
     }
 }
+//dfghjkfghjkl
