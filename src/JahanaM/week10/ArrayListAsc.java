@@ -15,12 +15,12 @@ public class ArrayListAsc {
         list.add(7);
         list.add(5);
         list.add(6);
-        sortDesc(list);
+        sortAsc(list);
         System.out.println(list);
     }
 
 
-    public static  void sortDesc( ArrayList<Integer> list){
+    public static  void sortAsc( ArrayList<Integer> list){
         int arrL= list.size();
         for (int i=0; i<list.size();i++){
             for (int j=0;j< list.size()-1;j++){
