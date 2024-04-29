@@ -6,7 +6,7 @@ import java.util.Map;
 public class MapFreqOfChar {
     public static void main(String[] args) {
 
-        frequencyOfCharacters("aaabbbbbsssitttgg");
+        frequencyOfCharacters("ccccggyujjjj");
     }
 
     public static void frequencyOfCharacters(String string) {
