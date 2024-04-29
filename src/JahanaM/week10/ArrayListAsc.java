@@ -21,7 +21,7 @@ public class ArrayListAsc {
 
 
     public static  void sortAsc( ArrayList<Integer> list){
-        int arrL= list.size();
+        //int arrL= list.size();
         for (int i=0; i<list.size();i++){
             for (int j=0;j< list.size()-1;j++){
                 if(list.get(j)>list.get(j+1)){
