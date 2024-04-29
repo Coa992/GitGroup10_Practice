@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class N_UniqueIntegers {
     public static void main(String[] args) {
-        unique(4);
+        unique(10);
     }
 
     public static void unique(int n) {
